@@ -1,0 +1,7 @@
+[user]
+	name = droidoes
+	email = joseph.ft.public@gmail.com
+[core]
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main

@@ -1,0 +1,187 @@
+10/04/23 18:18:43 Xvnc version TightVNC-1.3.10
+10/04/23 18:18:43 Copyright (C) 2000-2009 TightVNC Group
+10/04/23 18:18:43 Copyright (C) 1999 AT&T Laboratories Cambridge
+10/04/23 18:18:43 All Rights Reserved.
+10/04/23 18:18:43 See http://www.tightvnc.com/ for information on TightVNC
+10/04/23 18:18:43 Desktop name 'X' (ip-172-31-91-146:1)
+10/04/23 18:18:43 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+10/04/23 18:18:43 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/ubuntu/.Xresources'
+/usr/bin/startxfce4: X server already running on display :1
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.330: XSync extension too old (3.0).
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XRender extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XRandr extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XRes extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XComposite extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XDamage extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XFixes extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: The display does not support the XPresent extension.
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.331: Compositing manager disabled.
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Up'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Left'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Right'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Down'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_End'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Next'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Home'
+xfwm4-Message: 18:18:45.490: Unsupported keyboard modifier '<Super>KP_Page_Up'
+
+(xfwm4:30484): xfwm4-WARNING **: 18:18:45.502: Cannot find visual format on screen 0
+
+(xfwm4:30484): GLib-CRITICAL **: 18:18:45.502: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:30498): xfsettingsd-CRITICAL **: 18:18:45.545: No RANDR extension found in display :1. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1".
+
+(xfsettingsd:30498): xfsettingsd-CRITICAL **: 18:18:45.555: XI is not present.
+
+(xfsettingsd:30498): xfsettingsd-CRITICAL **: 18:18:45.555: Failed to initialize the Xkb extension.
+
+(xfsettingsd:30498): xfsettingsd-CRITICAL **: 18:18:45.556: Failed to initialize the Accessibility extension.
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Up'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Left'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Right'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Down'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_End'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Next'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Home'
+xfwm4-Message: 18:18:45.620: Unsupported keyboard modifier '<Super>KP_Page_Up'
+AUDIT: Mon Apr 10 18:18:46 2023: 30434 Xtightvnc: client 8 rejected from local host
+Failure: Module initialization failed
+
+(polkit-gnome-authentication-agent-1:30526): GLib-CRITICAL **: 18:18:46.063: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:30526): polkit-gnome-1-WARNING **: 18:18:46.063: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (xfce4-power-manager:30532): WARNING **: 18:18:46.073: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:30532): WARNING **: 18:18:46.074: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.096: Monitor is not DPMS capable
+
+** (xiccd:30541): CRITICAL **: 18:18:46.097: RandR extension is not working on display :1.0
+
+(xfce4-power-manager:30532): GLib-GObject-WARNING **: 18:18:46.250: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x564762b58100' of type 'GDBusProxy'
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ff2a to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ffa7 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ff2f to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ff02 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.303: could not map keysym 1008ff03 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.304: could not map keysym 1008ff93 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.304: could not map keysym 1008ff05 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.304: could not map keysym 1008ff06 to keycode
+
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.307: No idle counter.
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.323: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (xfce4-power-manager:30532): WARNING **: 18:18:46.323: No XRANDR extension found
+
+(xfce4-power-manager:30532): xfce4-power-manager-WARNING **: 18:18:46.334: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+** (wrapper-2.0:30572): WARNING **: 18:18:47.371: No XRANDR extension found
+
+(wrapper-2.0:30573): GLib-GIO-CRITICAL **: 18:18:47.376: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:30573): GLib-GIO-CRITICAL **: 18:18:47.376: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:30573): GLib-GObject-WARNING **: 18:18:47.376: invalid (NULL) pointer instance
+
+(wrapper-2.0:30573): GLib-GObject-CRITICAL **: 18:18:47.376: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:30573): Gtk-WARNING **: 18:18:47.376: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:30569): WARNING **: 18:18:47.468: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:30569): pulseaudio-plugin-WARNING **: 18:18:47.468: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:30569): WARNING **: 18:18:47.468: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:30569): pulseaudio-plugin-WARNING **: 18:18:47.468: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:30572): Gtk-CRITICAL **: 18:18:47.497: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:30572): Gtk-CRITICAL **: 18:18:47.502: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:30572): Gtk-CRITICAL **: 18:18:47.502: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:30569): Gtk-WARNING **: 18:18:47.607: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:30573): Gtk-WARNING **: 18:18:47.628: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:30572): Gtk-CRITICAL **: 18:18:47.628: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:30572): Gtk-WARNING **: 18:18:47.637: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+10/04/23 18:21:02 Got connection from client 127.0.0.1
+10/04/23 18:21:02 Using protocol version 3.8
+10/04/23 18:21:14 Full-control authentication passed by 127.0.0.1
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+10/04/23 18:21:14 Using hextile encoding for client 127.0.0.1
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+10/04/23 18:21:14 Enabling full-color cursor updates for client 127.0.0.1
+10/04/23 18:21:14 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+10/04/23 18:21:14 Pixel format for client 127.0.0.1:
+10/04/23 18:21:14   32 bpp, depth 24, little endian
+10/04/23 18:21:14   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+10/04/23 18:21:14   no translation needed
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".

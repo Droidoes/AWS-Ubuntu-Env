@@ -1,0 +1,172 @@
+08/04/23 17:59:57 Xvnc version TightVNC-1.3.10
+08/04/23 17:59:57 Copyright (C) 2000-2009 TightVNC Group
+08/04/23 17:59:57 Copyright (C) 1999 AT&T Laboratories Cambridge
+08/04/23 17:59:57 All Rights Reserved.
+08/04/23 17:59:57 See http://www.tightvnc.com/ for information on TightVNC
+08/04/23 17:59:57 Desktop name 'X' (ip-172-31-91-146:1)
+08/04/23 17:59:57 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+08/04/23 17:59:57 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/ubuntu/.Xresources'
+/usr/bin/startxfce4: X server already running on display :1
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: XSync extension too old (3.0).
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XRender extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XRandr extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XRes extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XComposite extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XDamage extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.570: The display does not support the XFixes extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.571: The display does not support the XPresent extension.
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.571: Compositing manager disabled.
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Up'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Left'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Right'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Down'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_End'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Next'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Home'
+xfwm4-Message: 17:59:58.606: Unsupported keyboard modifier '<Super>KP_Page_Up'
+
+(xfwm4:837906): xfwm4-WARNING **: 17:59:58.618: Cannot find visual format on screen 0
+
+(xfwm4:837906): GLib-CRITICAL **: 17:59:58.618: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:837914): xfsettingsd-CRITICAL **: 17:59:58.651: No RANDR extension found in display :1. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1".
+
+(xfsettingsd:837914): xfsettingsd-CRITICAL **: 17:59:58.651: XI is not present.
+
+(xfsettingsd:837914): xfsettingsd-CRITICAL **: 17:59:58.651: Failed to initialize the Xkb extension.
+
+(xfsettingsd:837914): xfsettingsd-CRITICAL **: 17:59:58.651: Failed to initialize the Accessibility extension.
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>KP_Up'
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>KP_Left'
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>KP_Right'
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>KP_Down'
+xfwm4-Message: 17:59:58.727: Unsupported keyboard modifier '<Super>KP_End'
+xfwm4-Message: 17:59:58.728: Unsupported keyboard modifier '<Super>KP_Next'
+xfwm4-Message: 17:59:58.728: Unsupported keyboard modifier '<Super>KP_Home'
+xfwm4-Message: 17:59:58.728: Unsupported keyboard modifier '<Super>KP_Page_Up'
+AUDIT: Sat Apr  8 17:59:59 2023: 837863 Xtightvnc: client 10 rejected from local host
+Failure: Module initialization failed
+
+** (xiccd:837952): CRITICAL **: 17:59:59.094: RandR extension is not working on display :1.0
+
+** (xfce4-power-manager:837939): WARNING **: 17:59:59.101: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:837939): WARNING **: 17:59:59.101: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(polkit-gnome-authentication-agent-1:837937): GLib-CRITICAL **: 17:59:59.103: g_variant_new_string: assertion 'string != NULL' failed
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.104: Monitor is not DPMS capable
+
+(polkit-gnome-authentication-agent-1:837937): polkit-gnome-1-WARNING **: 17:59:59.104: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfce4-power-manager:837939): GLib-GObject-WARNING **: 17:59:59.176: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x5622e2eb1960' of type 'GDBusProxy'
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff2a to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ffa7 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff2f to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff02 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff03 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff93 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff05 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.205: could not map keysym 1008ff06 to keycode
+
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.206: No idle counter.
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.217: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (xfce4-power-manager:837939): WARNING **: 17:59:59.218: No XRANDR extension found
+
+(xfce4-power-manager:837939): xfce4-power-manager-WARNING **: 17:59:59.233: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+** (xfce4-screensaver:837940): WARNING **: 17:59:59.246: screensaver already running in this session
+
+** (wrapper-2.0:837988): WARNING **: 17:59:59.956: No XRANDR extension found
+
+(wrapper-2.0:837988): Gtk-CRITICAL **: 17:59:59.992: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:837988): Gtk-CRITICAL **: 17:59:59.997: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:837988): Gtk-CRITICAL **: 17:59:59.997: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+** (wrapper-2.0:837984): WARNING **: 18:00:00.037: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:837984): pulseaudio-plugin-WARNING **: 18:00:00.037: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:837984): WARNING **: 18:00:00.037: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:837984): pulseaudio-plugin-WARNING **: 18:00:00.037: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:837991): GLib-GIO-CRITICAL **: 18:00:00.048: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:837991): GLib-GIO-CRITICAL **: 18:00:00.048: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:837991): GLib-GObject-WARNING **: 18:00:00.049: invalid (NULL) pointer instance
+
+(wrapper-2.0:837991): GLib-GObject-CRITICAL **: 18:00:00.049: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:837991): Gtk-WARNING **: 18:00:00.049: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:837988): Gtk-CRITICAL **: 18:00:00.060: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:837988): Gtk-WARNING **: 18:00:00.093: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:837984): Gtk-WARNING **: 18:00:00.131: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:837991): Gtk-WARNING **: 18:00:00.132: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+08/04/23 18:01:08 Got connection from client 127.0.0.1
+08/04/23 18:01:08 Using protocol version 3.8
+08/04/23 18:01:17 Full-control authentication passed by 127.0.0.1
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+08/04/23 18:01:17 Using hextile encoding for client 127.0.0.1
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+08/04/23 18:01:17 Enabling full-color cursor updates for client 127.0.0.1
+08/04/23 18:01:17 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+08/04/23 18:01:17 Pixel format for client 127.0.0.1:
+08/04/23 18:01:17   32 bpp, depth 24, little endian
+08/04/23 18:01:17   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+08/04/23 18:01:17   no translation needed
+
+(xfce4-panel:837917): xfce4-panel-CRITICAL **: 18:01:25.057: panel-window.c:2391 (panel_window_active_window_geometry_changed): expression 'WNCK_IS_WINDOW (active_window)' failed.
