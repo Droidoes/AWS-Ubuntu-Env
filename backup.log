@@ -1,3 +1,9 @@
 [2023-04-10 15:44:40] Backup created at /home/ubuntu/My_backup
 [2023-04-10 18:12:57] Backup created at /home/ubuntu/My_backup
 [2023-04-11 02:44:39] Backup created at /home/ubuntu/My_backup
+<<<<<<< HEAD
+=======
+[2023-04-11 23:28:57] Backup created at /home/ftu/My_backup
+[2023-04-11 23:29:59] Backup created at /home/ftu/My_backup
+[2023-04-11 23:37:54] Backup created at /home/ftu/My_backup
+>>>>>>> a1eab14 (Azure-Ubuntu: 04/11/2023)
