@@ -1,3 +1,5 @@
 *.png
 *.gif
 *.bmp
+*.ps
+__pycache__

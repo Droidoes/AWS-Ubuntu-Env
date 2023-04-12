@@ -2,6 +2,6 @@
 	name = droidoes
 	email = joseph.ft.public@gmail.com
 [core]
-	excludesFile = ~/.gitignore
+	excludesfile = /home/ftu/.gitignore
 [init]
 	defaultBranch = main
