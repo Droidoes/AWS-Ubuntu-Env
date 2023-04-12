@@ -14,10 +14,8 @@ FILES_TO_BACKUP=(
     "$HOME/.gitignore"
     "$HOME/.profile"
     "$HOME/.python_history"
-    "$HOME/.vim/"
     "$HOME/.viminfo"
     "$HOME/.vimrc"
-    "$HOME/.vnc"
     "$HOME/.xsession"
     "$HOME/.my_env_backup.sh"
 )
