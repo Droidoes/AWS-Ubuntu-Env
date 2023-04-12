@@ -873,3 +873,391 @@ snap run firefox
 chromium&
 #1681166201
 echo $DBUS_SESSSION_BUS_ADDRESS
+sudo apt-get update
+sudo apt upgrade
+sudo snap install code
+sudo snap install code --classic
+sudo snap remove code --classic
+sudo snap remove code
+sudo apt install update-manager-core
+sudo apt update
+sudo apt dist-upgrade
+sudo do-release-upgrade
+#1681192156
+mv .bashrc .bashrc.bak
+#1681192200
+vi .bashrc
+#1681192219
+. ~/.bashrc
+#1681192431
+sudo apt-get update
+#1681192564
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y install xfce4
+#1681192717
+sudo apt install xfce4-session
+#1681192726
+sudo apt-get -y install xrdp
+#1681192753
+sudo systemctl enable xrdp
+#1681192771
+sudo adduser xrdp ssl-cert
+#1681192783
+echo xfce4-session >~/.xsession
+#1681192792
+sudo service xrdp restart
+#1681192802
+sudo su -
+#1681193420
+sudo apt install python3-numpy
+#1681193431
+sudo apt install python3-pip
+#1681193467
+python3 -m pip install --upgrade Pillow
+#1681193479
+python3 --version
+#1681193505
+sudo apt install python3-tk
+#1681193520
+pip3 install matplotlib
+#1681193541
+pip3 install Pillow
+#1681193566
+pip3 install OpenGL
+#1681193579
+pip3 install pygame
+#1681193593
+pip3 install pyopengl
+#1681193607
+pip3 install pythonturtle
+#1681193650
+pip3 list
+#1681193721
+sudo  apt install firefox
+#1681194049
+exit
+#1681234042
+mkdir my_backup
+#1681234054
+mv my_backup My_backup
+#1681234523
+git config --global user.name droidoes
+#1681234570
+git config --global user.email joseph.ft.public@gmail.com
+#1681234618
+git config --global core.excludesfile ~/.gitignore
+#1681234635
+git config --global init.defaultBranch main
+#1681234646
+git config --list
+#1681235686
+ssh-keygen -t rsa -b 4096 -C "joseph.ft.public@gmail.com"
+#1681235979
+ssh-add ~/.ssh/id_rsa
+#1681236244
+		ssh-add ~/.ssh/id_rsa
+#1681236275
+mv config bk.config
+#1681237646
+ssh-add ~/.ssh/id_rsa
+#1681237675
+mv bk.config config
+#1681251240
+eval "$(ssh-agent -s)"
+#1681251277
+ssh-add ~/.ssh/id_rsa
+#1681251323
+pbcopy
+#1681251342
+cat id_rsa.pub
+#1681251614
+ssh -T git@github.com
+#1681251660
+clera
+#1681251786
+git init
+#1681251889
+git remote -v
+#1681252111
+git remote -add git_aws_ubuntu_env git@github.com:Droidoes/AWS-Ubuntu-Env.git
+#1681252128
+git remote -add git_aws_ubuntu_env "git@github.com:Droidoes/AWS-Ubuntu-Env.git"
+#1681252193
+git remote set-url git_aws_ubuntu_env git@github.com:Droidoes/AWS-Ubuntu-Env.git
+#1681252303
+git remote add git_aws_ubuntu_env git@github.com:Droidoes/AWS-Ubuntu-Env.git
+#1681252421
+git remote -v
+#1681252485
+git clone git_aws_ubuntu_env
+#1681252891
+git clone git@github.com:Droidoes/AWS-Ubuntu-Env.git
+#1681252947
+mv AWS-Ubuntu-Env/ ..
+#1681252950
+sl
+#1681252999
+cp ../AWS-Ubuntu-Env/.* .
+#1681253022
+cp -rf ../AWS-Ubuntu-Env/.* .
+#1681253073
+rm -rf .
+#1681253094
+rm -rf My_backup/
+#1681253103
+mkdir My_backp
+#1681253112
+rm My_backp/
+#1681253121
+rmdir My_backp/
+#1681253311
+mkdir My_backup
+#1681253320
+git init
+#1681253337
+git clone git@github.com:Droidoes/Code-projects.git
+#1681253360
+git remote add git_ubuntu_env git@github.com:Droidoes/Code-projects.git
+#1681253371
+git remote -v
+#1681253413
+git remote -delete git_ubuntu_env
+#1681253436
+git remote remove git_ubuntu_env
+#1681253476
+git remote add git_ubuntu_env git@github.com:Droidoes/Code-projects.git
+#1681253484
+git remote -v
+#1681253508
+git remote remove git_ubuntu_env
+#1681253622
+git remote add git_ubuntu_env git@github.com:Droidoes/Ubuntu-env.git
+#1681253652
+git remote -v
+#1681253663
+git clone git@github.com:Droidoes/Ubuntu-env.git
+#1681253688
+git remote -v
+#1681253702
+rm -rf Code-projects/
+#1681253720
+mv Ubuntu-env/.* .
+#1681253733
+mv -rf Ubuntu-env/.* .
+#1681253782
+rm -rf Ubuntu-env/
+#1681253835
+cat ../.bach_history
+#1681253843
+cat ../.bash_history
+#1681254063
+exit
+#1681253733
+mv -rf Ubuntu-env/.* .
+#1681253782
+rm -rf Ubuntu-env/
+#1681253835
+cat ../.bach_history
+#1681253843
+cat ../.bash_history
+#1681254063
+exit
+#1681254306
+git add -a
+#1681254313
+git add --all
+#1681254318
+git status
+#1681254577
+git rm .vnc/* --cached
+#1681254585
+git status
+#1681254599
+rm -rf .vnc
+#1681254705
+git rm .vim/* --cached
+#1681254721
+git status
+#1681254740
+git rm .vnc/
+#1681254759
+git rm -r .vnc/*
+#1681254791
+git rm -r .
+#1681254797
+git rm -r .*
+#1681254846
+git rm .netrwhist 
+#1681254862
+git status
+#1681254902
+git rm -r .vim/*
+#1681254929
+rm -r .vim/*
+#1681254950
+rm -rf .vim/*
+#1681254964
+git rm -r .vim/*
+#1681254969
+git status
+#1681254998
+git rmdir .vim
+#1681255015
+git rm -rf .vim
+#1681255023
+git status
+#1681255045
+rmdir .vim
+#1681255447
+rm -rf My_backup/
+#1681255456
+mkdir My_backup/
+#1681255464
+git init
+#1681255471
+git clone git@github.com:Droidoes/Ubuntu-env.git
+#1681255486
+mv Ubuntu-env/* .
+#1681255498
+mv Ubuntu-env/.* .
+#1681255512
+rmdir Ubuntu-env/
+#1681255555
+rm -rf Ubuntu-env/
+#1681255577
+git remote add git_ubuntu_env git@github.com:Droidoes/Ubuntu-env.git
+#1681255616
+git remote -v
+#1681255665
+crontab
+#1681255736
+. ./.my_env_backup.sh 
+#1681255770
+cp My_backup/.gitignore .
+#1681255784
+python3
+#1681255798
+. ./.my_env_backup.sh 
+#1681255811
+git add -all
+#1681255817
+git add --all
+#1681255821
+git status
+#1681255897
+git commit -m "Azure: 04/11/2023" -a
+#1681255904
+git status
+#1681255933
+git push git_ubuntu_env
+#1681256118
+gjit pull git_ubuntu_env
+#1681256125
+git pull git_ubuntu_env
+#1681256137
+status
+#1681256144
+git status
+#1681256155
+git show-tree
+#1681256176
+git show-ref
+#1681256196
+git branch
+#1681256273
+. ./.my_env_backup.sh 
+#1681256301
+git status
+#1681256325
+git add --al
+#1681256328
+git add --all
+#1681256332
+git status
+#1681256385
+git commit -m "Azure-Ubuntu: 04/11/2023" -a
+#1681256409
+git push git_ubuntu_env
+#1681256460
+git push --help
+#1681256547
+git commit -m "Azure-Ubuntu: 04/11/2023" -a
+#1681256558
+git push git_ubuntu_env
+#1681256638
+git pull git_ubuntu_env
+#1681256719
+git pull git_ubuntu_env main
+#1681257013
+git pull --no-rebase git_ubuntu_env main
+#1681257025
+git pull rebase git_ubuntu_env main
+#1681257044
+git pull --rebase git_ubuntu_env main
+#1681257094
+git rebase --skip
+#1681257098
+git status
+#1681257110
+clearf
+#1681257117
+git status\
+#1681257121
+git status
+#1681257150
+git add backup.log
+#1681257162
+git status
+#1681257192
+git commit -m "Azure-Ubuntu: 04-11-2023" -a
+#1681257228
+git push git_ubuntu_env
+#1681257248
+git push git_ubuntu_env HEAD:main
+#1681257320
+cp ../.my_env_backup.sh .
+#1681257378
+git add --all
+#1681257381
+git status
+#1681257434
+git commit -m "Azure-Ubuntu: 04-11-2023 Take 2" -a
+#1681257500
+git push git_ubuntu_env HEAD:Azure-Ubuntu
+#1681257771
+exit
+#1681257871
+rm -rf AWS-Ubuntu-Env/
+#1681257945
+git clone git@github.com:Droidoes/Code-projects.git
+#1681257977
+git status
+#1681272966
+sudo snap install chromium
+#1681276838
+sudo snap remove chromium
+#1681276941
+kls
+#1681279338
+cleawr
+#1681317283
+gs Seashell.ps
+#1681317291
+gv Seashell.ps
+#1681317312
+sudo apt install ghostscript
+#1681317338
+ghostscript Seashell.ps 
+#1681317402
+sudo apt remove  ghostscript
+#1681317415
+sudo apt autoclean
+#1681317430
+sudo apt get gv
+#1681317442
+gv Seashell.ps 
+#1681317818
+sudo apt install ghostscript
+#1681317869
+gs -sDEVICE=pngalpha -o Seashell.png Seashell.ps
+#1681318148
+gs -dEPSCrop -sDEVICE=pngalpha -o Seashell.png Seashell.ps

@@ -10,43 +10,13 @@
 
 # hlsearch on (H) or off (h):
 ~h
-# Last Search Pattern:
-~MSle0~/bind
-
-# Last Substitute String:
-$
-
 # Command Line History (newest to oldest):
-:wq
-|2,0,1681181017,,"wq"
 :q
-|2,0,1681150462,,"q"
-:u
-|2,0,1681148952,,"u"
-:1
-|2,0,1681146930,,"1"
-:q!
-|2,0,1681145570,,"q!"
-:w
-|2,0,1680962209,,"w"
-:ewq
-|2,0,1680931145,,"ewq"
-:120
-|2,0,1680913943,,"120"
-:$
-|2,0,1680913053,,"$"
+|2,0,1681338215,,"q"
+:wq
+|2,0,1681336738,,"wq"
 
 # Search String History (newest to oldest):
-?/bind
-|2,1,1681149569,47,"bind"
-?/cd
-|2,1,1681146818,47,"cd"
-? \<s\>
-|2,1,1681080836,,"\\<s\\>"
-? @$
-|2,1,1680974543,,"@$"
-?/PS1
-|2,1,1680913681,47,"PS1"
 
 # Expression History (newest to oldest):
 
@@ -55,689 +25,287 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	startxfce4 &
-|3,0,0,1,1,0,1680974543,"startxfce4 &"
-""1	LINE	0
-	    "$HOME/.config"
-|3,1,1,1,1,0,1681181015,"    \"$HOME/.config\""
+"1	LINE	0
+	    "$HOME/.vnc"
+|3,0,1,1,1,0,1681255650,"    \"$HOME/.vnc\""
 "2	LINE	0
-	ps -al
-|3,0,2,1,1,0,1681149269,"ps -al"
-"3	LINE	0
-	#1681101146
-|3,0,3,1,1,0,1681149268,"#1681101146"
-"4	LINE	0
-	ps 
-|3,0,4,1,1,0,1681149267,"ps "
-"5	LINE	0
-	#1681101137
-|3,0,5,1,1,0,1681149266,"#1681101137"
-"6	LINE	0
-	ps -al
-|3,0,6,1,1,0,1681149266,"ps -al"
-"7	LINE	0
-	#1681101132
-|3,0,7,1,1,0,1681149265,"#1681101132"
-"8	LINE	0
-	p
-|3,0,8,1,1,0,1681149264,"p"
-"9	LINE	0
-	#1681101124
-|3,0,9,1,1,0,1681149264,"#1681101124"
-"-	CHAR	0
-	*
-|3,0,36,0,1,0,1681145769,"*"
+	    "$HOME/.vim/"
+|3,0,2,1,1,0,1681255648,"    \"$HOME/.vim/\""
+""-	CHAR	0
+	`
+|3,1,36,0,1,0,1681272493,"`"
 
 # File marks:
-'0  13  4  ~/.my_env_backup.sh
-|4,48,13,4,1681181017,"~/.my_env_backup.sh"
-'1  127  0  ~/My_backup/.bashrc
-|4,49,127,0,1681150462,"~/My_backup/.bashrc"
-'2  14  0  ~/.bashrc
-|4,50,14,0,1681150291,"~/.bashrc"
-'3  54  0  ~/.bashrc
-|4,51,54,0,1681149771,"~/.bashrc"
-'4  54  0  ~/.bashrc
-|4,52,54,0,1681149771,"~/.bashrc"
-'5  755  0  ~/.bash_history
-|4,53,755,0,1681149284,"~/.bash_history"
-'6  811  0  ~/.bash_history
-|4,54,811,0,1681149036,"~/.bash_history"
-'7  1  0  ~/.bash_history
-|4,55,1,0,1681148547,"~/.bash_history"
-'8  1  0  ~/.bash_history
-|4,56,1,0,1681148547,"~/.bash_history"
-'9  5  0  ~/.bash_history
-|4,57,5,0,1681148547,"~/.bash_history"
+'0  1  0  ~/.my_env_backup.sh
+|4,48,1,0,1681338215,"~/.my_env_backup.sh"
+'1  1  0  ~/.my
+|4,49,1,0,1681338198,"~/.my"
+'2  4  3  ~/.gitignore
+|4,50,4,3,1681336738,"~/.gitignore"
+'3  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,51,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+'4  5  10  ~/.gitignore
+|4,52,5,10,1681272495,"~/.gitignore"
+'5  4  10  ~/.gitignore
+|4,53,4,10,1681272495,"~/.gitignore"
+'6  19  4  ~/.my_env_backup.sh
+|4,54,19,4,1681255655,"~/.my_env_backup.sh"
+'7  19  4  ~/.my_env_backup.sh
+|4,55,19,4,1681255655,"~/.my_env_backup.sh"
+'8  3  1  ~/.ssh/config
+|4,56,3,1,1681235854,"~/.ssh/config"
+'9  1  0  ~/.bashrc
+|4,57,1,0,1681192255,"~/.bashrc"
 
 # Jumplist (newest first):
--'  13  4  ~/.my_env_backup.sh
-|4,39,13,4,1681181017,"~/.my_env_backup.sh"
 -'  1  0  ~/.my_env_backup.sh
-|4,39,1,0,1681181009,"~/.my_env_backup.sh"
--'  127  0  ~/My_backup/.bashrc
-|4,39,127,0,1681150462,"~/My_backup/.bashrc"
--'  127  0  ~/My_backup/.bashrc
-|4,39,127,0,1681150462,"~/My_backup/.bashrc"
--'  1  0  ~/My_backup/.bashrc
-|4,39,1,0,1681150432,"~/My_backup/.bashrc"
--'  1  0  ~/My_backup/.bashrc
-|4,39,1,0,1681150432,"~/My_backup/.bashrc"
--'  14  0  ~/.bashrc
-|4,39,14,0,1681150291,"~/.bashrc"
--'  14  0  ~/.bashrc
-|4,39,14,0,1681150291,"~/.bashrc"
--'  14  0  ~/.bashrc
-|4,39,14,0,1681150291,"~/.bashrc"
--'  14  0  ~/.bashrc
-|4,39,14,0,1681150291,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681150184,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681150184,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681150184,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681150184,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  54  0  ~/.bashrc
-|4,39,54,0,1681149771,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681149567,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681149567,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681149567,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1681149567,"~/.bashrc"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  755  0  ~/.bash_history
-|4,39,755,0,1681149284,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1681149057,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  811  0  ~/.bash_history
-|4,39,811,0,1681149036,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
--'  654  0  ~/.bash_history
-|4,39,654,0,1681148952,"~/.bash_history"
--'  710  0  ~/.bash_history
-|4,39,710,0,1681148952,"~/.bash_history"
+|4,39,1,0,1681338215,"~/.my_env_backup.sh"
+-'  1  0  ~/.my
+|4,39,1,0,1681338198,"~/.my"
+-'  1  0  ~/.my
+|4,39,1,0,1681338198,"~/.my"
+-'  4  3  ~/.gitignore
+|4,39,4,3,1681336738,"~/.gitignore"
+-'  4  3  ~/.gitignore
+|4,39,4,3,1681336738,"~/.gitignore"
+-'  4  3  ~/.gitignore
+|4,39,4,3,1681336738,"~/.gitignore"
+-'  4  3  ~/.gitignore
+|4,39,4,3,1681336738,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681336727,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681336727,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681336727,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681336727,"~/.gitignore"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  1  0  ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+|4,39,1,0,1681316864,"~/Code-projects/Python/Graphics/Seashell/Seashell.ps"
+-'  5  10  ~/.gitignore
+|4,39,5,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  5  10  ~/.gitignore
+|4,39,5,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  5  10  ~/.gitignore
+|4,39,5,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  5  10  ~/.gitignore
+|4,39,5,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1681272495,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1681272480,"~/.gitignore"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  19  4  ~/.my_env_backup.sh
+|4,39,19,4,1681255655,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  1  0  ~/.my_env_backup.sh
+|4,39,1,0,1681255643,"~/.my_env_backup.sh"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
+-'  3  1  ~/.ssh/config
+|4,39,3,1,1681235854,"~/.ssh/config"
 
 # History of marks within files (newest to oldest):
 
 > ~/.my_env_backup.sh
-	*	1681181015	0
-	"	13	4
-	.	13	0
-	+	13	0
-
-> ~/My_backup/.bashrc
-	*	1681150461	0
-	"	127	0
-	^	28	41
-	.	28	40
-	+	28	40
-
-> ~/.bashrc
-	*	1681150186	0
-	"	14	0
-	^	28	57
-	.	28	56
-	+	127	2
-	+	127	0
-	+	127	18
-	+	127	0
-	+	51	0
-	+	52	0
-	+	66	0
-	+	67	0
-	+	66	5
-	+	67	53
-	+	102	19
-	+	67	53
-	+	101	9
-	+	102	8
-	+	29	0
-	+	27	27
-	+	29	0
-	+	28	41
-	+	29	0
-	+	28	38
-	+	66	4
-	+	67	5
-	+	102	15
-	+	66	5
-	+	67	4
-	+	127	1
-	+	67	74
-	+	103	0
-	+	101	13
-	+	102	16
-	+	101	0
-	+	100	7
-	+	19	9
-	+	20	14
-	+	28	39
-	+	100	7
-	+	28	56
-
-> ~/.bash_history
-	*	1681149281	0
-	"	755	0
-	.	626	0
-	+	733	0
-	+	735	0
-	+	740	0
-	+	743	0
-	+	745	0
-	+	753	0
-	+	755	0
-	+	1	0
-	+	3	0
-	+	9	0
-	+	11	0
-	+	13	0
-	+	15	0
+	*	1681338206	0
+	"	1	0
+	.	19	0
 	+	17	0
 	+	19	0
-	+	21	0
-	+	23	0
-	+	25	0
-	+	69	0
-	+	75	0
-	+	77	0
-	+	79	0
-	+	80	0
-	+	88	0
-	+	108	0
-	+	112	0
-	+	114	0
-	+	122	0
-	+	126	0
-	+	142	0
-	+	148	0
-	+	152	0
-	+	154	0
-	+	158	0
-	+	160	0
-	+	162	0
-	+	168	0
-	+	170	0
-	+	172	0
-	+	176	0
-	+	248	0
-	+	250	0
-	+	252	0
-	+	302	0
-	+	308	0
-	+	332	0
-	+	334	0
-	+	350	0
-	+	360	0
-	+	364	0
-	+	378	0
-	+	454	0
-	+	458	0
-	+	464	0
-	+	476	0
-	+	502	0
-	+	504	0
-	+	510	0
-	+	512	0
-	+	536	0
-	+	540	0
-	+	550	0
-	+	576	0
-	+	596	0
-	+	602	0
-	+	622	0
-	+	630	0
-	+	654	0
-	+	662	0
-	+	690	0
-	+	694	0
-	+	696	0
-	+	698	0
-	+	704	0
-	+	706	0
-	+	708	0
-	+	710	0
-	+	712	0
-	+	714	0
-	+	716	0
-	+	725	0
-	+	727	0
-	+	731	0
-	+	733	0
-	+	739	0
-	+	743	0
-	+	745	0
-	+	753	0
-	+	755	0
-	+	1	0
-	+	3	0
-	+	11	0
-	+	148	0
-	+	150	0
-	+	250	0
-	+	252	0
-	+	432	0
-	+	458	0
-	+	626	0
 
-> ~/My_backup/.my_env_backup.sh
-	*	1681141440	0
-	"	1	0
-	^	23	28
-	.	23	27
-	+	23	27
-
-> ~/backup.sh
-	*	1681141328	0
+> ~/.my
+	*	1681338196	0
 	"	1	0
 
-> /tmp/crontab.YsR23h/crontab
-	*	1681141207	0
-	"	25	20
-	^	25	21
-	.	25	20
-	+	25	20
+> ~/.gitignore
+	*	1681336735	0
+	"	4	3
+	^	4	4
+	.	4	3
+	+	5	11
+	+	4	3
 
-> ~/My_backup/backup.sh
-	*	1681140856	0
-	"	22	15
-	^	39	21
-	.	21	15
-	+	10	9
-	+	11	9
-	+	12	9
-	+	13	9
-	+	14	9
-	+	15	9
-	+	16	9
-	+	17	5
-	+	18	9
-	+	21	5
-	+	1	0
-	+	21	9
-	+	22	9
-	+	18	15
-	+	19	17
-	+	20	4
-	+	19	11
-	+	20	11
-	+	19	11
-	+	20	12
-	+	21	24
-	+	6	12
-	+	38	23
-	+	45	62
-	+	39	20
-	+	21	15
-
-> ~/Backup/backup.sh
-	*	1681139658	0
-	"	37	22
-	^	6	23
-	.	6	22
-	+	65	36
-	+	10	12
-	+	47	0
-	+	46	36
-	+	37	36
-	+	10	17
-	+	11	7
-	+	12	13
-	+	13	13
-	+	14	7
-	+	15	16
-	+	16	15
-	+	17	21
-	+	18	11
-	+	19	21
-	+	20	6
-	+	6	22
-
-> /tmp/crontab.E0F7aZ/crontab
-	*	1681139456	0
-	"	26	0
-	^	26	0
-	.	25	29
-	+	25	29
-
-> ~/.ignore
-	*	1681113835	0
-	"	1	0
-
-> ~/.gitconfig
-	*	1681095116	0
+> ~/Code-projects/Python/Graphics/Seashell/Seashell.ps
+	*	1681316857	0
 	"	1	0
 
 > ~/.ssh/config
-	*	1681088895	0
-	"	3	27
-	^	3	28
-	.	3	27
-	+	1	6
-	+	3	27
+	*	1681235853	0
+	"	3	1
+	^	3	2
+	.	3	1
+	+	3	30
+	+	1	0
+	+	2	0
+	+	3	0
+	+	2	1
+	+	3	1
 
-> ~/.gitignore
-	*	1681082944	0
+> ~/.bashrc
+	*	1681192253	0
 	"	1	0
-	^	1	5
-	.	1	5
-	+	1	5
+	^	127	2
+	.	127	1
+	+	127	1
 
 > ~/.vimrc
-	*	1680974928	0
-	"	55	0
-	.	56	0
-	+	56	18
-	+	30	0
-	+	56	0
-
-> ~/.xsession
-	*	1680972987	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
-
-> ~/Python/Graphics/Random-Walk/scatteredSquares.py
-	*	1680935258	0
-	"	23	0
-	^	23	0
-	.	22	14
-	+	22	14
-
-> ~/Python/Graphics/Random-Walk/Random-Walk-Visualization.py
-	*	1680934824	0
-	"	42	12
-	^	42	13
-	.	42	12
-	+	42	12
-
-> ~/Python/Graphics/Random-Walk/Random-Walk.py
-	*	1680934639	0
-	"	38	0
-	^	38	0
-	.	37	40
-	+	37	40
-
-> ~/Python/Fractals/Julia/Julia-4/julia-4.py
-	*	1680934307	0
-	"	59	32
-	^	59	33
-	.	59	32
-	+	59	32
-
-> ~/Python/Fractals/Mandel/Mandel-02/Mandel-02.py
-	*	1680933522	0
-	"	61	12
-	^	61	13
-	.	61	12
-	+	61	12
-
-> ~/Python/Fractals/Julia/Julia-3/Julia-3.py
-	*	1680931145	0
-	"	92	6
-	^	92	7
-	.	92	6
-	+	92	6
-
-> ~/Python/Fractals/Koch/Koch.py
-	*	1680930941	0
-	"	61	0
-	^	61	0
-	.	60	16
-	+	60	16
-
-> ~/Python/Fractals/Trees/Tree-03/Tree-03
-	*	1680930752	0
-	"	35	38
-	^	35	39
-	.	35	38
-	+	35	38
-
-> ~/Python/Fractals/Trees/Tree-02/Tree-02.py
-	*	1680930496	0
-	"	40	34
-	^	40	35
-	.	40	34
-	+	40	34
-
-> ~/Python/Fractals/DragonCurve/DragonCurve.py
-	*	1680929875	0
-	"	23	32
-	^	23	33
-	.	23	32
-	+	1	13
-	+	23	32
-
-> ~/Python/Graphics/Turtle-Star/Turtle-Star.py
-	*	1680929132	0
-	"	10	5
-	^	10	6
-	.	10	5
-	+	10	5
-
-> ~/Python/Trees/Tree-01/Tree-01.py
-	*	1680928702	0
-	"	37	22
-	^	37	23
-	.	37	22
-	+	37	22
-
-> ~/python/LSystem-Pattern.py
-	*	1680920669	0
-	"	106	71
-	^	106	73
-	.	106	72
-	+	106	72
-
-> ~/python/LSystem-Flower-1.py
-	*	1680920484	0
-	"	89	19
-	^	89	20
-	.	89	19
-	+	89	19
-
-> ~/python/mandel-01.py
-	*	1680920007	0
-	"	301	0
-	^	301	0
-	.	300	15
-	+	300	15
-
-> ~/python/julia-2
-	*	1680919594	0
-	"	40	25
-	^	40	26
-	.	40	25
-	+	40	25
-
-> ~/python/mandelbrot-1.py
-	*	1680919314	0
-	"	36	44
-	^	36	45
-	.	36	44
-	+	56	47
-	+	17	32
-	+	36	44
-
-> ~/python/julia-1.py
-	*	1680918910	0
-	"	65	44
-	^	65	45
-	.	65	44
-	+	45	0
-	+	65	44
-
-> ~/python/Julia-1
-	*	1680918252	0
-	"	41	47
-	^	41	50
-	.	41	48
-	+	41	48
-
-> ~/.config/xfce4/xinitrc
-	*	1680916206	0
-	"	1	0
-
-> ~/.vnc/xstartup
-	*	1680915850	0
-	"	3	11
-	^	3	12
-	.	3	11
-	+	1	11
-	+	3	11
+	*	1681192249	0
+	"	54	4
+	^	54	5
+	.	54	4
+	+	54	4
